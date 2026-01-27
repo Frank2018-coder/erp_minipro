@@ -1,5 +1,5 @@
 package com.mboumda.erp_minipro.model.emums;
 
-public enum AdressType {
+public enum AddressType {
     BILLING, SHIPPING;
 }
