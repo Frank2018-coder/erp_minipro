@@ -1,7 +1,10 @@
 package com.mboumda.erp_minipro.model;
 
+import com.mboumda.erp_minipro.model.emums.ReservationStatus;
 import jakarta.persistence.*;
 import lombok.Data;
+
+import java.time.LocalDateTime;
 
 @Data
 @Entity
